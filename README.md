@@ -20,7 +20,18 @@ A heart shaped PCB with 10 Leds which run in a loop. Build with an NE555 and a 4
 
 ## Componets
 
-
+| Reference | Component |
+| :--- | :--- |
+| U1 | 4017 |
+| U2 | NE555P |
+| D1 to D10 | LEDs |
+| R1 | 470 resistor |
+| R2 | 1k resistor |
+| RV1 | 50k potentiometer (speed) |
+| C1 | 1 µF capacitor |
+| C2 | 0.01 µF capacitor |
+| J1, J2 | Power pads (5 V and GND) |
+| PCB | Custom heart PCB |
 
 ## Tools
 
@@ -41,3 +52,7 @@ A heart shaped PCB with 10 Leds which run in a loop. Build with an NE555 and a 4
 - Credits: Omocat (pixelart on my PCB not in the files)
 
 ## Bonus
+
+There was i time i had no idea what i was doing. 
+
+<img width="668" height="606" alt="Screenshot 2026-10-11 161922" src="https://github.com/user-attachments/assets/a1ec8ca0-2564-4813-9743-c6d37ee7b127" />
