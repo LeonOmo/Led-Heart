@@ -1,1 +1,13 @@
 
+Component,Description / Function,Qty,Total Item Price,Link
+NE555P,Timer IC that creates the clock signal,1,,
+CD4017,Decade counter that switches the LEDs one by one,1,,
+LED Red 5 mm,light around the heart,10,,
+Resistor 470 ,current limiter for all LEDs,1,,
+Resistor 1 k,Timing resistor for the NE555,1,,
+Potentiometer 50 k,Adjusts the loop speed,1,,
+Capacitor 1 µF,Timing capacitor,1,,
+Capacitor 0.01 µF,Control voltage capacitor,1,,
+PCB,PCB,1,4.00 $,https://jlcpcb.com/
+Battery,Power,1,,
+TOTAL,,,
