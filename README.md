@@ -38,6 +38,6 @@ A heart shaped PCB with 10 Leds which run in a loop. Build with an NE555 and a 4
 
 ## Extras
 
-- Credits: Omocat (pixelart on my PCB)
+- Credits: Omocat (pixelart on my PCB not in the files)
 
 ## Bonus
