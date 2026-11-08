@@ -1,13 +1,13 @@
-
 Component,Description / Function,Qty,Total Item Price,Link
-NE555P,Timer IC that creates the clock signal,1,,
-CD4017,Decade counter that switches the LEDs one by one,1,,
-LED Red 5 mm,light around the heart,10,,
-Resistor 470 ,current limiter for all LEDs,1,,
-Resistor 1 k,Timing resistor for the NE555,1,,
-Potentiometer 50 k,Adjusts the loop speed,1,,
-Capacitor 1 µF,Timing capacitor,1,,
-Capacitor 0.01 µF,Control voltage capacitor,1,,
-PCB,PCB,1,4.00 $,https://jlcpcb.com/
+NE555P,Timer IC that creates the clock signal,1,1.99 €,https://de.aliexpress.com/item/1005010411046676.html
+CD4017,Decade counter that switches the LEDs one by one,1,4.99 €,https://de.aliexpress.com/item/1005002876650475.html
+IC Socket, Socket for the CD4017,1,2.49 €,https://de.aliexpress.com/item/33035412873.html
+LED Red 5 mm,light around the heart,10,2.19 €,https://de.aliexpress.com/item/1005003144912658.html
+Resistor 470 ,current limiter for all LEDs,1,2.49€,https://de.aliexpress.com/item/1005006186890215.html
+Resistor 1 k,Timing resistor for the NE555,1,included with the other resistors,https://de.aliexpress.com/item/1005006186890215.html
+Potentiometer 50 k,Adjusts the loop speed,1,2.59€,https://de.aliexpress.com/item/1005002633262032.html
+Capacitor 1 µF,Timing capacitor,1,1.95 €,https://de.aliexpress.com/item/4000084285646.html
+Capacitor 0.01 µF,Control voltage capacitor,1,1.49 €,https://de.aliexpress.com/item/1005001493545069.html
+PCB,PCB,1,4.00 €,https://jlcpcb.com/
 Battery,Power,1,,
 TOTAL,,,,
