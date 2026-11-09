@@ -1,7 +1,7 @@
 Component,Description / Function,Qty,Total Item Price,Reichelt Article No.
 NE555P,Timer IC that creates the clock signal,1,0.69 €,NE 555 DIP
 CD4017,Decade counter that switches the LEDs one by one,1,0.70 €,CD 4017BE TEX
-IC Socket DIP-16,Socket for the CD4017,3,0.21 €,GS 16
+IC Socket DIP-16,Socket for the CD4017,1,0.21 €,GS 16
 LED Red 5 mm,Light around the heart,10,1.50 €,KBT L-7113SURD
 Resistor 470,Current limiter for all LEDs,1,0.12 €,1/4W 470
 Resistor 1k,Timing resistor for the NE555,1,0.11 €,1/4W 1.0K (should be comma here)
