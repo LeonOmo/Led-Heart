@@ -51,3 +51,8 @@ A heart shaped PCB with 10 Leds which run in a loop. Build with an NE555 and a 4
 There was i time i had no idea what i was doing. 
 
 <img width="668" height="606" alt="Screenshot 2026-10-11 161922" src="https://github.com/user-attachments/assets/a1ec8ca0-2564-4813-9743-c6d37ee7b127" />
+
+Something i added to the PCB as an example of what you can put on.
+
+<img width="729" height="591" alt="image" src="https://github.com/user-attachments/assets/7aef20c5-43fb-49fb-9bec-35059ac181d2" />
+
