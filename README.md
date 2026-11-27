@@ -3,21 +3,24 @@
 A custom heartshaped PCB featuring 10 LEDs running in a continuous loop, built entirely with classic ICs no microcontroller or code required!
 
 ## Why does it exist?
+
 - Christmas Gift: Created as a handmade electronic gift for Christmas.
 - Back to Basics: Instead of reaching for an Arduino, ESP32, or any microcontroller for every small project, I wanted to build something purely in hardware using classic timer and counter ICs.
 
 ## Features
+
 - No Code Needed: Pure hardware logic.
 - Custom Heart-Shaped PCB: Designed in KiCad.
 - Adjustable Speed: Smoothly control the LED loop speed via an onboard potentiometer.
 - 5V Powered
 
 ## How It Works
+
 1. Clock Generation (U2 - NE555P): Configured in astable mode to generate a continuous clock signal. Turning the 50k potentiometer adjusts the charge rate of C1, changing the blink frequency.
-2. Decade Counter: Advances its active output (Q0–Q9) on every rising clock edge from the 555 timer, lighting up D1 through D10 sequentially in an endless loop (as long if it had eletrical energy).
+2. Decade Counter: Advances its active output (Q0–Q9) on every rising clock edge from the 555 timer, lighting up D1 through D10 sequentially in an endless loop (as long if it has eletrical energy).
 3. Current Limiting: Since only one LED is active at any given time, a single 470Ω shared cathode resistor safely limits the current for all 10 LEDs.
 
-## Bill of Materials (BOM)
+## Bill of Materials
 
 | Reference | Component | Notes |
 | :--- | :--- | :--- |
@@ -48,7 +51,7 @@ A custom heartshaped PCB featuring 10 LEDs running in a continuous loop, built e
 
 ## Extras & Credits
 
-- Artwork Credit: Pixel art on the personal build inspired by OMOCAT (not included in the repo files).
+- Artwork Credit: Pixel art on the personal build made by OMOCAT (not included in the repo files).
 
 ## Bonus
 
