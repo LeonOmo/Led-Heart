@@ -16,9 +16,9 @@ A custom heartshaped PCB featuring 10 LEDs running in a continuous loop, built e
 
 ## How It Works
 
-1. Clock Generation (U2 - NE555P): Configured in astable mode to generate a continuous clock signal. Turning the 50k potentiometer adjusts the charge rate of C1, changing the blink frequency.
+1. Clock Generation: Configured in astable mode to generate a continuous clock signal. Turning the 50k potentiometer adjusts the charge rate of C1, changing the blink frequency.
 2. Decade Counter: Advances its active output (Q0–Q9) on every rising clock edge from the 555 timer, lighting up D1 through D10 sequentially in an endless loop (as long if it has eletrical energy).
-3. Current Limiting: Since only one LED is active at any given time, a single 470Ω shared cathode resistor safely limits the current for all 10 LEDs.
+3. Current Limiting: Since only one LED is active at any given time, a single 470 shared cathode resistor safely limits the current for all 10 LEDs.
 
 ## Bill of Materials
 
