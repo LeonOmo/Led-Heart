@@ -1,6 +1,6 @@
 # LED Heart (555 + 4017 Chaser)
 
-A custom heart-shaped PCB featuring 10 LEDs running in a continuous loop, built entirely with classic discrete logic ICs (NE555 and CD4017) — no microcontroller or code required!
+A custom heartshaped PCB featuring 10 LEDs running in a continuous loop, built entirely with classic ICs no microcontroller or code required!
 
 ## Why does it exist?
 - Christmas Gift: Created as a handmade electronic gift for Christmas.
