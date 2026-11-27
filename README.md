@@ -1,4 +1,4 @@
-# LED Heart (555 + 4017 Chaser)
+# LED Heart
 
 A custom heartshaped PCB featuring 10 LEDs running in a continuous loop, built entirely with classic ICs no microcontroller or code required!
 
@@ -19,7 +19,7 @@ A custom heartshaped PCB featuring 10 LEDs running in a continuous loop, built e
 
 ## Bill of Materials (BOM)
 
-| Reference | Component | Value / Notes |
+| Reference | Component | Notes |
 | :--- | :--- | :--- |
 | U1 | Decade Counter IC | CD4017 (DIP-16) |
 | U2 | Timer IC | NE555P (DIP-8) |
