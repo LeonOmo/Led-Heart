@@ -27,7 +27,7 @@ A custom heart-shaped PCB featuring 10 LEDs running in a continuous loop, built 
 | R1 | Resistor | 470 (Current limiting) |
 | R2 | Resistor | 1 k |
 | RV1 | Potentiometer | 50 k (Loop speed control) |
-| C1 | Capacitor | 1 µF |
+| C1 | Capacitor | 1 uF |
 | C2 | Capacitor | 0.01 uF (10 nF) |
 | J1, J2 | Power Pads | 5V & GND |
 | PCB | Custom Board | Heartshaped PCB (KiCad) |
